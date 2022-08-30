@@ -1,2 +1,2 @@
 #!/bin/bash
-emacs "School"
+emacs "The school is open!"
